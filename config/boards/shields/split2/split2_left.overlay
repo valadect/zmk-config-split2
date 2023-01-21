@@ -1,4 +1,4 @@
-#include "SPLIT2.dtsi" // Notice that the main dtsi files are included in the overlay.
+#include "split2.dtsi"
 
 &kscan0 {
     col-gpios
